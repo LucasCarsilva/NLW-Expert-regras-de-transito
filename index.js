@@ -18,7 +18,7 @@ const perguntas = [
       correta: 0
     },
     {
-      pergunta: "Qual a velocidade máxima permitida em rodovias, de acordo com o Código de Trânsito Brasileiro?",
+      pergunta: "Qual a velocidade máxima permitida em rodovias de pista dupla, de acordo com o Código de Trânsito Brasileiro?",
       respostas: [
         "90 km/h",
         "100 km/h",
